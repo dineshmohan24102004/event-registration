@@ -162,10 +162,9 @@ background: url(saveetha logo.png);
 ## OUTPUT:
 ![Output](./out1.png)
 
-![12](https://user-images.githubusercontent.com/119478475/215309123-90c3e63b-fc70-4186-bb90-b8864475c0fa.jpeg)
+![Output](./out2.png)
+![Output](./out3.png)
 
-
-![13](https://user-images.githubusercontent.com/119478475/215309202-a340f673-36e9-4514-a3b5-3a1a4287aae4.jpeg)
 
 ## Result:
 the program to design,develop and deploy a web application for event registration is completed successfully.
