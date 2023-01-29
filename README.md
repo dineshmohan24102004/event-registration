@@ -162,7 +162,8 @@ background: url(saveetha logo.png);
 ## OUTPUT:
 ![Output](./out1.png)
 
-![Output](./out2.png)
+![12](https://user-images.githubusercontent.com/119478475/215318054-62acd488-111b-4f1a-bb5b-978e703b22cd.jpeg)
+
 ![Output](./out3.png)
 
 
