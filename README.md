@@ -161,9 +161,11 @@ background: url(saveetha logo.png);
 ```
 ## OUTPUT:
 ![Output](./out1.png)
- ![WhatsApp Image 2023-01-29 at 11 48 59 AM](https://user-images.githubusercontent.com/119478475/215308937-d7884ffc-9006-48c6-a10e-adaec5d374a1.jpeg)
 
-![WhatsApp Image 2023-01-29 at 11 49 11 AM](https://user-images.githubusercontent.com/119478475/215308973-b0657ff1-2a5f-4bb3-9606-d047503cca45.jpeg)
+![12](https://user-images.githubusercontent.com/119478475/215309123-90c3e63b-fc70-4186-bb90-b8864475c0fa.jpeg)
+
+
+![13](https://user-images.githubusercontent.com/119478475/215309202-a340f673-36e9-4514-a3b5-3a1a4287aae4.jpeg)
 
 ## Result:
 the program to design,develop and deploy a web application for event registration is completed successfully.
